@@ -1,0 +1,15 @@
+.container {
+    height: 70vh;
+}
+
+.container h1 {
+    text-align: center;
+    margin-top: 100px;
+}
+
+.history {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 50px
+}
+
