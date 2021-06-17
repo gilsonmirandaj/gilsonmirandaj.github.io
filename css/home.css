@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 90vh;
+  }
+
+.selection {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
