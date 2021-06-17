@@ -40,3 +40,26 @@ footer a {
     font-weight: bold;
 }
 
+@media screen and (max-width: 800px) {
+    .container {
+        height: auto;
+    }
+
+    .container h1 {
+        font-size: 28px;
+    }
+
+    .history {
+        display:block;
+        grid-template-columns: 1fr 1fr;
+        margin: 50px
+    }
+
+    .history img {
+        width: 100%;
+    }
+
+    footer a {
+        font-size: 17px;
+    }
+}

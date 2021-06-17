@@ -48,3 +48,30 @@ footer a {
     font-size: 15px;
 }
 
+@media screen and (max-width: 800px) {
+    .container {
+        height: auto;
+    }
+
+    .container h1 {
+        display: block;
+        margin-top: 170px;
+        font-size: 22px;
+        margin-bottom: 50px;
+    }
+
+    .buttons {
+        margin-top: 10rem;
+        margin-bottom: 10rem;
+    }
+
+    .buttons button {
+        width: 130px;
+        margin: 10px;
+    }
+
+    .buttons button a {
+        font-size: 15px;
+    }
+
+}
