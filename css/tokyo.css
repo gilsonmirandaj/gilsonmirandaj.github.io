@@ -1,5 +1,5 @@
 .container {
-    height: 70vh;
+    height: 75vh;
 }
 
 .container h1 {
@@ -13,3 +13,6 @@
     margin: 50px
 }
 
+footer {
+    text-align: center;
+}
